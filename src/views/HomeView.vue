@@ -14,7 +14,7 @@
             <p>デザインとコーディングとフロントエンドを担当</p>
           </a>
         </li>
-        <li>
+        <!-- <li>
           <a href="https://sharegymw.com/" target="_blank">
             <img
               src="@/assets/img/sharegym.jpg"
@@ -24,7 +24,7 @@
             <h3>パーソナルジム様のサイト制作</h3>
             <p>ディレクションとコーディングとフロントエンドを担当</p>
           </a>
-        </li>
+        </li> -->
         <li>
           <a href="https://childparadise.net/" target="_blank">
             <img
