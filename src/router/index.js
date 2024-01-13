@@ -19,6 +19,16 @@ const router = createRouter({
       name: "magazine",
       component: () => import("../views/MagazineView.vue"),
     },
+    {
+      path: "/movie",
+      name: "movie",
+      component: () => import("../views/MovieView.vue"),
+    },
+    {
+      path: "/photo",
+      name: "photo",
+      component: () => import("../views/PhotoView.vue"),
+    },
   ],
 });
 

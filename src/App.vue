@@ -12,6 +12,8 @@ import HelloWorld from "./components/HelloWorld.vue";
         <RouterLink to="/">WEB DESIGN & CODING</RouterLink>
         <RouterLink to="/magazine">MAGAZINE</RouterLink>
         <RouterLink to="/print">DESIGN & PRINT</RouterLink>
+        <RouterLink to="/movie">MOVIE</RouterLink>
+        <RouterLink to="/photo">PHOTO</RouterLink>
       </nav>
     </div>
   </header>

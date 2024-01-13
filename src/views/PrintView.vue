@@ -128,7 +128,13 @@ li img {
   height: auto;
   border-radius: 20px;
   box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.35);
+  transition: 0.3s;
 }
+
+img:hover {
+  transform: scale(1.05);
+}
+
 img + img {
   margin-top: 20px;
 }

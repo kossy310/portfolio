@@ -10,7 +10,7 @@
             <p>デザインとコーディングとフロントエンドを担当</p>
             <p class="skills">
               <span class="skill-title">使用スキル</span
-              >:html,css,vue,php,gsap,lottie,xd
+              >:html,css,vue,php,gsap,aftereffects,lottie,xd
             </p></a
           >
         </li>
@@ -65,6 +65,15 @@
             <span class="skill-title">使用スキル</span>:photoshop
           </p>
         </li>
+        <li>
+          <img src="@/assets/img/web/ec1.png" alt="" class="workItem" />
+          <img src="@/assets/img/web/ec2.png" alt="" class="workItem" />
+          <h3>アパレルECサイト</h3>
+          <p>サイト閉鎖のためリンクなし<br />デザインを担当</p>
+          <p class="skills">
+            <span class="skill-title">使用スキル</span>:photoshop
+          </p>
+        </li>
       </ul>
     </div>
   </main>
@@ -103,5 +112,19 @@ p {
   @media screen and (max-width: 768px) {
     font-size: 12px;
   }
+}
+li img {
+  width: 100%;
+  height: auto;
+  border-radius: 20px;
+  box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.35);
+  transition: 0.3s;
+}
+
+img:hover {
+  transform: scale(1.05);
+}
+img + img {
+  margin-top: 20px;
 }
 </style>
