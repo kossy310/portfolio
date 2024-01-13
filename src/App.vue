@@ -1,16 +1,17 @@
 <script setup>
-import { RouterLink, RouterView } from "vue-router";
+import { RouterLink } from "vue-router";
 import HelloWorld from "./components/HelloWorld.vue";
 </script>
 
 <template>
   <header>
     <div class="wrapper">
-      <HelloWorld msg="PORTFOLIO" />
+      <RouterLink to="/"><HelloWorld msg="PORTFOLIO" /></RouterLink>
 
       <nav>
         <RouterLink to="/">WEB DESIGN & CODING</RouterLink>
-        <RouterLink to="/about">PRINT DESIGN</RouterLink>
+        <RouterLink to="/magazine">MAGAZINE</RouterLink>
+        <RouterLink to="/print">DESIGN & PRINT</RouterLink>
       </nav>
     </div>
   </header>

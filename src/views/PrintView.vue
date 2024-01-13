@@ -5,12 +5,43 @@
       <ul>
         <li>
           <img
-            src="@/assets/img/printdesign/kanban.jpg"
-            alt="看板"
+            src="@/assets/img/other/2ori-panfu1.png"
+            alt=""
             class="workItem"
           />
-          <h3>飲食店の看板デザイン</h3>
-          <p>デザインを担当</p>
+          <img
+            src="@/assets/img/other/2ori-panfu2.png"
+            alt=""
+            class="workItem"
+          />
+          <h3 class="skills">5G回線の通信事業工事会社のパンフレット</h3>
+        </li>
+        <li>
+          <img
+            src="@/assets/img/other/3ori-panfu1.png"
+            alt=""
+            class="workItem"
+          />
+          <img
+            src="@/assets/img/other/3ori-panfu2.png"
+            alt=""
+            class="workItem"
+          />
+          <h3 class="skills">水道ゼネコン会社の三つ折りパンフレット</h3>
+        </li>
+        <li>
+          <img src="@/assets/img/other/panfu1.png" alt="" class="workItem" />
+          <img src="@/assets/img/other/panfu2.png" alt="" class="workItem" />
+          <img src="@/assets/img/other/panfu3.png" alt="" class="workItem" />
+          <h3 class="skills">不動産会社のパンフレット＆イラスト</h3>
+        </li>
+        <li>
+          <img
+            src="@/assets/img/printdesign/kanban.jpg"
+            alt=""
+            class="workItem"
+          />
+          <h3 class="skills">飲食店の看板</h3>
         </li>
         <li>
           <img
@@ -18,8 +49,7 @@
             alt="メニュー"
             class="workItem"
           />
-          <h3>飲食店のクリスマスメニューデザイン</h3>
-          <p>デザインを担当</p>
+          <h3 class="skills">飲食店のクリスマスメニュー</h3>
         </li>
         <li>
           <img
@@ -27,8 +57,7 @@
             alt="メニュー"
             class="workItem"
           />
-          <h3>飲食店のクリスマスメニューデザイン</h3>
-          <p>デザインを担当</p>
+          <h3 class="skills">飲食店のクリスマスメニュー</h3>
         </li>
         <li>
           <img
@@ -36,8 +65,7 @@
             alt="メニュー"
             class="workItem"
           />
-          <h3>飲食店のクリスマスメニューデザイン</h3>
-          <p>デザインを担当</p>
+          <h3 class="skills">飲食店のクリスマスメニュー</h3>
         </li>
       </ul>
     </div>
@@ -100,5 +128,8 @@ li img {
   height: auto;
   border-radius: 20px;
   box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.35);
+}
+img + img {
+  margin-top: 20px;
 }
 </style>
