@@ -1,16 +1,16 @@
 <template>
   <main>
-    <h1>PRINT DESIGN</h1>
+    <h1>MAGAZINE</h1>
     <div class="workItemArea">
       <ul>
         <li>
           <img
-            src="@/assets/img/other/2ori-panfu1.png"
+            src="@/assets/img/other/2ori-panfu1.jpg"
             alt=""
             class="workItem"
           />
           <img
-            src="@/assets/img/other/2ori-panfu2.png"
+            src="@/assets/img/other/2ori-panfu2.jpg"
             alt=""
             class="workItem"
           />
@@ -18,21 +18,21 @@
         </li>
         <li>
           <img
-            src="@/assets/img/other/3ori-panfu1.png"
+            src="@/assets/img/other/3ori-panfu1.jpg"
             alt=""
             class="workItem"
           />
           <img
-            src="@/assets/img/other/3ori-panfu2.png"
+            src="@/assets/img/other/3ori-panfu2.jpg"
             alt=""
             class="workItem"
           />
           <h3 class="skills">水道ゼネコン会社の三つ折りパンフレット</h3>
         </li>
         <li>
-          <img src="@/assets/img/other/panfu1.png" alt="" class="workItem" />
-          <img src="@/assets/img/other/panfu2.png" alt="" class="workItem" />
-          <img src="@/assets/img/other/panfu3.png" alt="" class="workItem" />
+          <img src="@/assets/img/other/panfu1.jpg" alt="" class="workItem" />
+          <img src="@/assets/img/other/panfu2.jpg" alt="" class="workItem" />
+          <img src="@/assets/img/other/panfu3.jpg" alt="" class="workItem" />
           <h3 class="skills">不動産会社のパンフレット＆イラスト</h3>
         </li>
         <li>
@@ -45,7 +45,7 @@
         </li>
         <li>
           <img
-            src="@/assets/img/printdesign/XmasMenu1.png"
+            src="@/assets/img/printdesign/XmasMenu1.jpg"
             alt="メニュー"
             class="workItem"
           />
@@ -53,7 +53,7 @@
         </li>
         <li>
           <img
-            src="@/assets/img/printdesign/XmasMenu2.png"
+            src="@/assets/img/printdesign/XmasMenu2.jpg"
             alt="メニュー"
             class="workItem"
           />
@@ -61,7 +61,7 @@
         </li>
         <li>
           <img
-            src="@/assets/img/printdesign/XmasMenu3.png"
+            src="@/assets/img/printdesign/XmasMenu3.jpg"
             alt="メニュー"
             class="workItem"
           />

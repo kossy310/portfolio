@@ -1,6 +1,6 @@
 <template>
   <main>
-    <h1>PRINT DESIGN</h1>
+    <h1>MOVIE</h1>
     <div class="workItemArea">
       <ul>
         <li>
@@ -8,7 +8,7 @@
             href="https://drive.google.com/file/d/19Ssj6Wa5ax7SDjKfm6KXFx9zq0xsucsv/view?usp=sharing"
             target="_blank"
           >
-            <img src="@/assets/movie/petitbelle/petitbelle_movie1.png" alt="" />
+            <img src="@/assets/movie/petitbelle/petitbelle_movie1.jpg" alt="" />
             <h3 class="skills">アマゾンオリジナルショップのPV</h3>
           </a>
         </li>

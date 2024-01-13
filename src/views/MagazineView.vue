@@ -5,7 +5,7 @@
       <ul>
         <li>
           <img
-            src="@/assets/img/magazine/freepaper1.png"
+            src="@/assets/img/magazine/freepaper1.jpg"
             alt=""
             class="workItem"
           />
@@ -13,7 +13,7 @@
         </li>
         <li>
           <img
-            src="@/assets/img/magazine/freepaper2.png"
+            src="@/assets/img/magazine/freepaper2.jpg"
             alt=""
             class="workItem"
           />
@@ -21,7 +21,7 @@
         </li>
         <li>
           <img
-            src="@/assets/img/magazine/magazine-fashion1.png"
+            src="@/assets/img/magazine/magazine-fashion1.jpg"
             alt=""
             class="workItem"
           />
@@ -29,7 +29,7 @@
         </li>
         <li>
           <img
-            src="@/assets/img/magazine/magazine-interview.png"
+            src="@/assets/img/magazine/magazine-interview.jpg"
             alt=""
             class="workItem"
           />
@@ -37,7 +37,7 @@
         </li>
         <li>
           <img
-            src="@/assets/img/magazine/magazine-mensfasion2.png"
+            src="@/assets/img/magazine/magazine-mensfasion2.jpg"
             alt=""
             class="workItem"
           />
@@ -45,7 +45,7 @@
         </li>
         <li>
           <img
-            src="@/assets/img/magazine/magazine-shoes.png"
+            src="@/assets/img/magazine/magazine-shoes.jpg"
             alt=""
             class="workItem"
           />
@@ -53,7 +53,7 @@
         </li>
         <li>
           <img
-            src="@/assets/img/magazine/magazine-ad.png"
+            src="@/assets/img/magazine/magazine-ad.jpg"
             alt=""
             class="workItem"
           />
@@ -61,7 +61,7 @@
         </li>
         <li>
           <img
-            src="@/assets/img/magazine/magazine-ad-food.png"
+            src="@/assets/img/magazine/magazine-ad-food.jpg"
             alt=""
             class="workItem"
           />
@@ -69,7 +69,7 @@
         </li>
         <li>
           <img
-            src="@/assets/img/magazine/magazine-girl1.png"
+            src="@/assets/img/magazine/magazine-girl1.jpg"
             alt=""
             class="workItem"
           />
@@ -77,7 +77,7 @@
         </li>
         <li>
           <img
-            src="@/assets/img/magazine/magazine-girl2.png"
+            src="@/assets/img/magazine/magazine-girl2.jpg"
             alt=""
             class="workItem"
           />
@@ -87,7 +87,7 @@
         </li>
         <li>
           <img
-            src="@/assets/img/magazine/magazine-girl3.png"
+            src="@/assets/img/magazine/magazine-girl3.jpg"
             alt=""
             class="workItem"
           />
@@ -95,7 +95,7 @@
         </li>
         <li>
           <img
-            src="@/assets/img/magazine/magazine-hair.png"
+            src="@/assets/img/magazine/magazine-hair.jpg"
             alt=""
             class="workItem"
           />

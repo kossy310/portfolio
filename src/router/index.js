@@ -10,6 +10,11 @@ const router = createRouter({
       component: HomeView,
     },
     {
+      path: "/web",
+      name: "web",
+      component: () => import("../views/WebView.vue"),
+    },
+    {
       path: "/print",
       name: "print",
       component: () => import("../views/PrintView.vue"),

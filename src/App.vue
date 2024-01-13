@@ -9,12 +9,13 @@ import HelloWorld from "./components/HelloWorld.vue";
       <RouterLink to="/"><HelloWorld msg="PORTFOLIO" /></RouterLink>
 
       <nav>
-        <RouterLink to="/">WEB DESIGN & CODING</RouterLink>
+        <RouterLink to="/web">WEB DESIGN & CODING</RouterLink>
         <RouterLink to="/magazine">MAGAZINE</RouterLink>
         <RouterLink to="/print">DESIGN & PRINT</RouterLink>
         <RouterLink to="/movie">MOVIE</RouterLink>
         <RouterLink to="/photo">PHOTO</RouterLink>
       </nav>
+      <p>このサイトはvuecliで作成し、firebaseにホスティングしております。</p>
     </div>
   </header>
 
@@ -81,6 +82,20 @@ nav a:first-of-type {
 
     padding: 1rem 0;
     margin-top: 1rem;
+  }
+}
+
+p {
+  font-size: 14px;
+  margin-top: 40px;
+  color: #ccc;
+}
+
+@media (max-width: 1024px) {
+  p {
+    font-size: 9px;
+    margin-top: 20px;
+    text-align: center;
   }
 }
 </style>

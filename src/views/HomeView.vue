@@ -1,80 +1,34 @@
 <template>
   <main>
-    <h1>WEB DESIGN & CODING</h1>
+    <h1>ABOUT ME</h1>
     <div class="workItemArea">
-      <ul>
-        <li>
-          <a href="https://lunaglow01.xsrv.jp/marumasu/" target="_blank">
-            <img src="@/assets/img/web/marumasu.png" alt="" class="workItem" />
-            <h3>建築会社様のサイト制作</h3>
-            <p>デザインとコーディングとフロントエンドを担当</p>
-            <p class="skills">
-              <span class="skill-title">使用スキル</span
-              >:html,css,vue,php,gsap,aftereffects,lottie,xd
-            </p></a
-          >
-        </li>
-        <li>
-          <a href="https://sharegymw.com/" target="_blank">
-            <img src="@/assets/img/web/sharegym.png" alt="" class="workItem" />
-            <h3>パーソナルジム様のサイト制作</h3>
-            <p>ディレクションとコーディングとフロントエンドを担当</p>
-            <p class="skills">
-              <span class="skill-title">使用スキル</span
-              >:html,css,vue,php,gsap,lottie,xd
-            </p>
-          </a>
-        </li>
-        <li>
-          <a href="https://houmon.bougakuen.jp/" target="_blank">
-            <img src="@/assets/img/web/kajiki.png" alt="" class="workItem" />
-            <h3>訪問介護事業所様のサイト制作</h3>
-            <p>ディレクションとコーディングとフロントエンドを担当</p>
-            <p class="skills">
-              <span class="skill-title">使用スキル</span
-              >:html,css,wordpress,javascript,php,xd
-            </p>
-          </a>
-        </li>
-        <li>
-          <a href="https://childparadise.net/" target="_blank">
-            <img
-              src="@/assets/img/web/childparadise.png"
-              alt=""
-              class="workItem"
-            />
-          </a>
-          <h3>託児所様のサイト制作</h3>
-          <p>デザインとコーディングを担当</p>
-          <p class="skills">
-            <span class="skill-title">使用スキル</span
-            >:html,css,javascript,photoshop,
-          </p>
-        </li>
-        <li>
-          <a href="https://ichinomiyadoubutureien.com/" target="_blank">
-            <img
-              src="@/assets/img/web/doubutsureien.png"
-              alt=""
-              class="workItem"
-            />
-          </a>
-          <h3>動物霊園様のサイト制作</h3>
-          <p>ディレクションとデザインを担当</p>
-          <p class="skills">
-            <span class="skill-title">使用スキル</span>:photoshop
-          </p>
-        </li>
-        <li>
-          <img src="@/assets/img/web/ec1.png" alt="" class="workItem" />
-          <img src="@/assets/img/web/ec2.png" alt="" class="workItem" />
-          <h3>アパレルECサイト</h3>
-          <p>サイト閉鎖のためリンクなし<br />デザインを担当</p>
-          <p class="skills">
-            <span class="skill-title">使用スキル</span>:photoshop
-          </p>
-        </li>
-      </ul>
+      <h2>クライアントファーストな<br class="sp" />クリエイティブ。</h2>
+      <p>
+        はじめまして。ディレクション・ウェブデザインを主たる仕事としている中越と申します。
+        早いものでもう２０年以上制作現場に携わっております。
+      </p>
+      <p>
+        高校時代裏原系ファッションにどっぷりハマり、将来は宝島社のsmartの編集になりたいという気持ちから大学卒業後出版社に入社しました。
+        <br />宝島社に入社できなかったものの出版社に入り、それからはファッションへの興味よりも出版というビジネスモデルに惹かれ、編集管理・広告営業・広告代理店管理・印刷クオリティ管理などを経験し、編集長も務めました。
+      </p>
+      <p>
+        その後、アパレルモデル撮影のディレクション、ブッキング、デザイン・各種宣伝ツール制作、新規雑誌の立ち上げや写真集編集、イベントオーガナイズなどをしていたもの紙媒体への見えない未来と、反比例するかのように輝かしく見えるweb業界にジョブチェンジをすることにしました。
+      </p>
+      <p>
+        web業界は絶えず新しい技術がでてくる諸行無常な業界だと思いますが、私は趣味が勉強と仕事なので完全に向いていると感じました。<br />2024年現在はAWSなどのクラウドサービスとjavascriptの進化系（Jamstack）を活用して、クライアント様によりリーズナブル・スケーラブル・セキュアな提案ができると考え模索しております。
+      </p>
+      <p>
+        また第５次産業革命とまでいわれるDX（デジタルトランスフォーメーション）に着目し、既存のやり方すべてを変革し利益を生むような提案をしていきたいと考えております」。
+      </p>
+      <p>
+        もしなんとなく私を気になっていただけましたら、ZOOMなどでもいいですし、都内でしたらスグに呼びつけてください。自分でいうのもなんですが、とんでもなくフットワークが軽く行動力もあります。
+      </p>
+      <p>
+        お仕事のご相談・お見積りなどお気軽にお待ちしております。<br />
+        お問い合わせメールアドレス：<a href="mailto:nakakoshi3100@gmail.com"
+          >nakakoshi3100@gmail.com</a
+        >
+      </p>
     </div>
   </main>
 </template>
@@ -100,6 +54,19 @@ h1 {
   }
 }
 
+h2 {
+  font-size: 30px;
+  font-weight: 700;
+  margin-bottom: 4vw;
+  text-align: center;
+}
+
+@media (max-width: 1024px) {
+  h2 {
+    font-size: 24px;
+  }
+}
+
 h3 {
   font-family: "Noto Sans JP", sans-serif;
   font-weight: 700;
@@ -108,9 +75,18 @@ h3 {
     font-size: 14px;
   }
 }
+
+@media (min-width: 1024px) {
+  .sp {
+    display: none;
+  }
+}
+
 p {
+  margin-bottom: 3vw;
   @media screen and (max-width: 768px) {
     font-size: 12px;
+    margin-bottom: 8vw;
   }
 }
 li img {

@@ -1,6 +1,6 @@
 <template>
   <main>
-    <h1>PRINT DESIGN</h1>
+    <h1>PHOTO</h1>
     <div class="workItemArea">
       <ul>
         <li>
