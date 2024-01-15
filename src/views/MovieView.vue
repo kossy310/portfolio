@@ -5,11 +5,14 @@
       <ul>
         <li>
           <a
-            href="https://drive.google.com/file/d/19Ssj6Wa5ax7SDjKfm6KXFx9zq0xsucsv/view?usp=sharing"
+            href="https://drive.google.com/file/d/1Evx9Jze_F8ipEYq1Kgvng_x8C4H1aFdP/view?usp=sharing"
             target="_blank"
           >
-            <img src="@/assets/movie/petitbelle/petitbelle_movie1.jpg" alt="" />
+            <img src="@/assets/movie/petitbelle/petitbelle_movie1.png" alt="" />
             <h3 class="skills">アマゾンオリジナルショップのPV</h3>
+            <p>
+              ※読み込みしやすいように動画の画質はかなり低いものにしております
+            </p>
           </a>
         </li>
       </ul>
