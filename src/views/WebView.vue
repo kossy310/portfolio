@@ -4,15 +4,13 @@
     <div class="workItemArea">
       <ul>
         <li>
-          <a href="https://lunaglow01.xsrv.jp/marumasu/" target="_blank">
-            <img src="@/assets/img/web/marumasu.jpg" alt="" class="workItem" />
-            <h3>建築会社様のサイト制作</h3>
-            <p>デザインとコーディングとフロントエンドを担当</p>
-            <p class="skills">
-              <span class="skill-title">使用スキル</span
-              >:html,css,vue,php,gsap,aftereffects,lottie,xd
-            </p></a
-          >
+          <img src="@/assets/img/web/marumasu.jpg" alt="" class="workItem" />
+          <h3>建築会社様のサイト制作</h3>
+          <p>デザインとコーディングとフロントエンドを担当</p>
+          <p class="skills">
+            <span class="skill-title">使用スキル</span
+            >:html,css,vue,php,gsap,aftereffects,lottie,xd
+          </p>
         </li>
         <li>
           <a href="https://sharegymw.com/" target="_blank">
@@ -26,15 +24,13 @@
           </a>
         </li>
         <li>
-          <a href="https://houmon.bougakuen.jp/" target="_blank">
-            <img src="@/assets/img/web/kajiki.jpg" alt="" class="workItem" />
-            <h3>訪問介護事業所様のサイト制作</h3>
-            <p>ディレクションとコーディングとフロントエンドを担当</p>
-            <p class="skills">
-              <span class="skill-title">使用スキル</span
-              >:html,css,wordpress,javascript,php,xd
-            </p>
-          </a>
+          <img src="@/assets/img/web/kajiki.jpg" alt="" class="workItem" />
+          <h3>訪問介護事業所様のサイト制作</h3>
+          <p>ディレクションとコーディングとフロントエンドを担当</p>
+          <p class="skills">
+            <span class="skill-title">使用スキル</span
+            >:html,css,wordpress,javascript,php,xd
+          </p>
         </li>
         <li>
           <a href="https://childparadise.net/" target="_blank">
@@ -52,13 +48,11 @@
           </p>
         </li>
         <li>
-          <a href="https://ichinomiyadoubutureien.com/" target="_blank">
-            <img
-              src="@/assets/img/web/doubutsureien.jpg"
-              alt=""
-              class="workItem"
-            />
-          </a>
+          <img
+            src="@/assets/img/web/doubutsureien.jpg"
+            alt=""
+            class="workItem"
+          />
           <h3>動物霊園様のサイト制作</h3>
           <p>ディレクションとデザインを担当</p>
           <p class="skills">
@@ -69,7 +63,6 @@
           <img src="@/assets/img/web/ec1.jpg" alt="" class="workItem" />
           <img src="@/assets/img/web/ec2.jpg" alt="" class="workItem" />
           <h3>アパレルECサイト</h3>
-          <p>サイト閉鎖のためリンクなし<br />デザインを担当</p>
           <p class="skills">
             <span class="skill-title">使用スキル</span>:photoshop
           </p>

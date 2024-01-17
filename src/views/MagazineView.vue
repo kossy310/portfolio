@@ -9,7 +9,7 @@
             alt=""
             class="workItem"
           />
-          <h3 class="skills">音楽フリーペーパーのアート写真</h3>
+          <h3 class="skills">音楽フリーペーパーの編集</h3>
         </li>
         <li>
           <img
@@ -17,15 +17,7 @@
             alt=""
             class="workItem"
           />
-          <h3 class="skills">音楽フリーペーパーのアートイラスト</h3>
-        </li>
-        <li>
-          <img
-            src="@/assets/img/magazine/magazine-fashion1.jpg"
-            alt=""
-            class="workItem"
-          />
-          <h3 class="skills">音楽雑誌のファションタイアップページ</h3>
+          <h3 class="skills">音楽フリーペーパーの編集</h3>
         </li>
         <li>
           <img
