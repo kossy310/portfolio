@@ -12,7 +12,7 @@ import HelloWorld from "./components/HelloWorld.vue";
         <RouterLink to="/web">WEB DESIGN & CODING</RouterLink>
         <RouterLink to="/magazine">MAGAZINE</RouterLink>
         <RouterLink to="/print">DESIGN & PRINT</RouterLink>
-        <RouterLink to="/movie">MOVIE</RouterLink>
+        <!-- <RouterLink to="/movie">MOVIE</RouterLink> -->
         <RouterLink to="/photo">PHOTO</RouterLink>
       </nav>
       <p>このサイトはvuecliで作成し、firebaseにホスティングしております。</p>

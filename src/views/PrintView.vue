@@ -29,12 +29,12 @@
           />
           <h3 class="skills">水道ゼネコン会社の三つ折りパンフレット</h3>
         </li>
-        <li>
+        <!-- <li>
           <img src="@/assets/img/other/panfu1.jpg" alt="" class="workItem" />
           <img src="@/assets/img/other/panfu2.jpg" alt="" class="workItem" />
           <img src="@/assets/img/other/panfu3.jpg" alt="" class="workItem" />
           <h3 class="skills">不動産会社のパンフレット＆イラスト</h3>
-        </li>
+        </li> -->
         <li>
           <img
             src="@/assets/img/printdesign/kanban.jpg"
